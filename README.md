@@ -2,7 +2,6 @@
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 📚 Estudando Python, SQL, C/C++/C#, Java
-- 🤓 Pronouns: ela/dela
 
 ##
 
